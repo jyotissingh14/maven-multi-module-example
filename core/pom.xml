@@ -6,20 +6,12 @@
     <parent>
         <groupId>com.jamesward</groupId>
         <artifactId>multi</artifactId>
-<<<<<<< HEAD
-        <version>6.2</version>
-=======
-        <version>1.23</version>
->>>>>>> release/v1.24~1
+        <version>1.0-SNAPSHOT</version>
     </parent>
 
     <artifactId>core</artifactId>
     <name>core</name>
-<<<<<<< HEAD
-    <version>6.2</version>
-=======
-    <version>1.23</version>
->>>>>>> release/v1.24~1
+    <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <dependencies>
