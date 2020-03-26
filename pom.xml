@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.jamesward</groupId>
     <artifactId>multi</artifactId>
-    <version>1.15-SNAPSHOT</version>
+    <version>1.21</version>
     <packaging>pom</packaging>
     <name>multi</name>
     <modules>
@@ -13,17 +13,17 @@
        <connection>scm:https://github.com/jyotissingh14/maven-multi-module-example.git</connection>
        <url>https://github.com/jyotissingh14/maven-multi-module-example.git</url>
        <developerConnection>scm:git:https://github.com/jyotissingh14/maven-multi-module-example.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>1.21</tag>
   </scm>
 
 <distributionManagement>
    <snapshotRepository>
       <id>nexus</id>
-      <url>http://3.14.245.248:8081/nexus/content/repositories/snapshots</url>
+      <url>http://3.17.176.160:8081/nexus/content/repositories/snapshots</url>
    </snapshotRepository>
    <repository>
       <id>nexus</id>
-      <url>http://3.14.245.248:8081/nexus/content/repositories/releases</url>
+      <url>http://3.17.176.160:8081/nexus/content/repositories/releases</url>
    </repository>
 </distributionManagement>
 
